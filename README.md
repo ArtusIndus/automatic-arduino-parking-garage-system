@@ -1,5 +1,9 @@
 # Arduino Parking Garage System
 
+<p align="center">
+  <img src="images/parking.jpg" width="600">
+</p>
+
 ## Overview
 
 This system simulates a multi-level parking garage. It detects incoming and outgoing vehicles, controls a barrier gate, tracks available parking spaces, and operates an elevator between two levels.
