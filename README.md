@@ -10,6 +10,8 @@ This system simulates a multi-level parking garage. It detects incoming and outg
 
 The number of free parking spaces is displayed in real time using a 4-digit display.
 
+[Link to Instructables](https://www.instructables.com/DIY-Arduino-Smart-Parking-Garage-With-Elevator/)
+
 ---
 
 ## Features
