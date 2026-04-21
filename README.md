@@ -1,7 +1,7 @@
 # Arduino Parking Garage System
 
 <p align="center">
-  <img src="images/parking.jpg" width="600">
+  <img src="media/picture.jpg" width="600">
 </p>
 
 ## Overview
