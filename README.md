@@ -89,7 +89,8 @@ The number of free parking spaces is displayed in real time using a 4-digit disp
 
 2. Install required libraries:
 
-   * TM1637
+   * Grove 4-Digit Display (Seeed Studio)
+       https://github.com/Seeed-Studio/Grove_4Digital_Display
    * Stepper (built-in)
    * Servo (built-in)
 
